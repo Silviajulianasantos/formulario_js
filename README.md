@@ -7,3 +7,5 @@
 ## 3. Capturar un numero e imprimir todos los numeros pares que existen entre 1 y el numero digitado
 
 ## 4. Capturar un numero e imprimir todos los numeros impares entre 1 y el numero digitado en una caja de texto
+
+## 5. Imprimir 1 y n en una sola caja
